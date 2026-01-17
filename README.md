@@ -21,6 +21,6 @@ graph TD
     C --> D[Dodaj nową roślinę]
     D --> E[Zapis w bazie]
     C --> F[Szczegóły rośliny]
-    F --> G[Akcja: Podlej/Nawoź]
+    F --> G[Akcja: Podlej]
     G --> H[Koniec]
     E --> C
