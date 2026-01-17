@@ -1,0 +1,1 @@
+Projekt dotyczy aplikacji do zarządzania domową roślinnością. Rozwiązuje problem zapominania o podlewaniu i nawożeniu kwiatów. Odbiorcą są hobbyści-ogrodnicy oraz osoby początkujące. W aplikacji znajdą się: baza roślin, system powiadomień oraz dziennik wzrostu.

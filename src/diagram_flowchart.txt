@@ -1,0 +1,10 @@
+START -> [Logowanie użytkownika]
+           |
+           v
+    [Widok Główny (Lista Roślin)] --+--> [Dodaj nową roślinę]
+           |                        |
+           v                        v
+    [Kliknięcie w roślinę]       [Zapis do bazy]
+           |
+           v
+    [Szczegóły: Podlej/Nawoź] -> KONIEC

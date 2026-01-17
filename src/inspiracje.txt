@@ -1,0 +1,4 @@
+SŁOWA/SKOJARZENIA: Natura, paprocie, spokój, systematyczność.
+ELEMENTY: Przycisk "Podlane", system powiadomień, pasek postępu nawodnienia.
+DANE WEJŚCIOWE: Nazwa rośliny, częstotliwość podlewania (dni), data ostatniego podlewania.
+ŹRÓDŁA: Własna potrzeba (na moim biurku mam 2 paparotki które są w złym stanie bo zapominam podlewać), rozmowa z mamą entuzjastką ogrodnictwa.
